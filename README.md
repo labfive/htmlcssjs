@@ -1,3 +1,3 @@
 ## Web development
 
-test repository
+test repository after project directories and file location changes
